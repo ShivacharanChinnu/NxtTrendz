@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.CartSummerydiv {
+  width: 10vw;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
